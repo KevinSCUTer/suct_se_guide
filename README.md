@@ -6,6 +6,12 @@
 
 
 
+**Github 地址：**https://github.com/KevinSCUTer/suct_se_guide
+
+**Gitee 地址：**https://gitee.com/kevin-zhengscuter/scut_software_learning_guide/tree/main/
+
+
+
 ## 目录
 
 序章 以终为始，重整旗鼓再出发
